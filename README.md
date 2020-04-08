@@ -10,3 +10,4 @@ Link to the original pNotify script's repository, can be find here :
 https://github.com/Nick78111/pNotify
  =====================================================
  This script is open source and anyone can changed it or do whatever they like to do.
+If you find some bugs, just report them and i'll try my best to resolve your problem :) !
